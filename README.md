@@ -15,3 +15,10 @@ Integration steps
 
 
 https://github.com/XI3402-SurajUpadhyay/pfm-components/pkgs/npm/pfm-components
+
+
+
+## How to publish
+1) change version in package.json file
+2) npm run rollup
+3) npm publish
