@@ -1,4 +1,5 @@
 
+import './index.css'
 const Sunburst = () => {
     console.log('Sunburst');
 }
