@@ -1,9 +1,9 @@
 {
   "name": "@XI3402-SurajUpadhyay/pfm-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PFM components library",
   "scripts": {
-    "rollup" : "rollup -c --bundleConfigAsCjs"
+    "rollup": "rollup -c"
   },
   "author": "Xebia",
   "license": "ISC",
@@ -13,7 +13,8 @@
     "@rollup/plugin-babel": "^5.2.1",
     "@rollup/plugin-commonjs": "^23.0.2",
     "@rollup/plugin-node-resolve": "^15.0.1",
-    "rollup": "^3.2.3"
+    "rollup": "^2.0.0",
+    "rollup-plugin-postcss": "^4.0.2"
   },
   "input": "src/index.js",
   "main": "dist/cjs/index.js",
