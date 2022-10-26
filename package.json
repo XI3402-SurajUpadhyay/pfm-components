@@ -1,5 +1,5 @@
 {
-  "name": "pfm-components",
+  "name": "@XI3402-SurajUpadhyay/pfm-components",
   "version": "0.0.1",
   "description": "PFM components library",
   "scripts": {
@@ -21,5 +21,8 @@
   "umd": "dist/umd/pfm-components.min.js",
   "files": [
     "dist"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/XI3402-SurajUpadhyay"
+  }
 }
