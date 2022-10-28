@@ -25,5 +25,8 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/XI3402-SurajUpadhyay"
+  },
+  "dependencies": {
+    "d3": "^7.6.1"
   }
 }
