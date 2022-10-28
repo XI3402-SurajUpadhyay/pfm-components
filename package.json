@@ -1,6 +1,6 @@
 {
   "name": "@XI3402-SurajUpadhyay/pfm-components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PFM components library",
   "scripts": {
     "rollup": "rollup -c"
